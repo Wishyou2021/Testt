@@ -7,7 +7,3 @@ import plotly.express as px
   st.markdown("This application is a Streamlit dashboard to analyze 
                the sentiment of tweets")
 
-# 边栏标题&文字
-  st.sidebar.title("Sentiment Analysis of Tweets about US Airline")
-  st.sidebar.markdown("This application is a Streamlit dashboard to analyze 
-                       the sentiment of tweets")
